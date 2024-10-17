@@ -1,0 +1,15 @@
+{
+    "name": "meu-projeto-backend",
+    "version": "1.0.0",
+    "description": "Backend para sistema de marcação de consultas",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.17.3"
+    },
+    "author": "Seu Nome",
+    "license": "MIT"
+  }
+  
